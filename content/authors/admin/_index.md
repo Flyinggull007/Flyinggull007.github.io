@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guo Zhang 张国
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Guo
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 土壤生态学 副教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 贵州师范大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 本人研究兴趣包括碳循环，土壤生物多样性和土壤有机碳稳定机制.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+兴趣:
+  - 土壤有机碳组分
+  - 土壤生物多样性
+  - 碳足迹
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+教育:
+  教育经历:
+    - 学位: 博士，生态学
+      培养单位: 中国农业大学
+      学习时间: 2007.09-2011.06
+    - 学位: 硕士，植物生理学及分子生物学
+      培养单位: 山东农业大学
+      学习时间: 2001.09-2004.07
+    - 学位: 学士，植物保护
+      培养单位: 山东农业大学
+      year: 1993.09–1997.07
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhangguo2017@gznu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
