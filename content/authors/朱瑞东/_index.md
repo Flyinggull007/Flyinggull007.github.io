@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 硕士研究生，自然地理学 
 
 # Organizations/Affiliations
 organizations:
