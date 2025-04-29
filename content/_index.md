@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-04-29
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ZG Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        本小组主要采用土壤理化分析、微生物高通量测序和土壤动物鉴定等方法，结合数据统计分析，研究喀斯特生境下石漠化、生态恢复对土壤碳周转、微生物和动物的群落结构和多样性的影响，从2017年由一个人逐渐增加到1个导师+4个硕士研究生的小组结构。
   
   - block: collection
     content:
